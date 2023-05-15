@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.blog-items-container {
+  list-style-type: none;
+}
+.blog-items {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto';
+}
+.title {
+  font-size: 20px;
+  color: #12022f;
+}
+.description {
+  font-size: 16px;
+  color: #616e7c;
+}
+.date {
+  font-size: 16px;
+  color: #616e7c;
+}
+.hr-line {
+  border-color: #9aa5b1;
+}
